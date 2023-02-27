@@ -21,6 +21,12 @@ a:link, a:visited  {
     color: black;
 }
 
+a:hover {
+    padding-bottom: 4px;
+    border-bottom: 1px solid #000;   
+
+}
+
 .header {
     background-color: lightblue;
     padding-top: 5px;
@@ -68,6 +74,7 @@ a:link, a:visited  {
 .aside{
     background-color: lightblue;
     padding-left: 10px;;
+    padding-right: 10px;
     width: 40%;
     float: right;
 }
