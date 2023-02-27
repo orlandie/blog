@@ -22,8 +22,9 @@ a:link, a:visited  {
 }
 
 a:hover {
+    color: #fff;
     padding-bottom: 4px;
-    border-bottom: 1px solid #000;   
+    border-bottom: 1px solid #fff;   
 
 }
 
