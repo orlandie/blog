@@ -10,11 +10,9 @@ h1 {
     color: blue;
 }
 
-a:link  {
+a:link, a:visited  {
     text-decoration: none;
-    font-size: 16px;
-    font-weight: lighter;
-
+    color: black;
 }
 
 #aside{
