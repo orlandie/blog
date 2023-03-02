@@ -87,8 +87,6 @@ a:hover {
     word-spacing: 30px;;
 }
 
-
-
 .slogan {
     font-family: 'Josefin Sans', sans-serif;
     font-style: italic;
@@ -165,11 +163,14 @@ a:hover {
 .text {
     background-color: blueviolet;
     width: 800px;
+    padding-top: 80px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
     margin: 0 auto;
-    
+    float: right;
+
+
 
     
 
