@@ -12,7 +12,6 @@ body, html {
     width: 100%;
     height: 100%;
     float: right;
-
 }
 
 .main  {
@@ -24,7 +23,6 @@ body, html {
     top: 60%;
     margin-left: -500px;
     margin-top: -150px; 
-
     text-align: center;
 }
 
@@ -34,12 +32,16 @@ h1 {
     font-weight: bolder;
     text-transform: uppercase;
     color: rgb(201, 201, 201);
-    /* color: rgb(28, 96, 34); */
 }
 
 h3 {
     color: rgb(201, 201, 201);
 }
+
+h4 {
+    font-size: 20px;
+
+} 
 
 a:link, a:visited  {
     text-decoration: none;
@@ -59,6 +61,7 @@ a:hover {
     width: 100%;
     height: 90px;
 }
+
 
 .intro {
     position: absolute;
@@ -112,7 +115,7 @@ a:hover {
     padding-right: 10px;
     width: 30%;
     float: right;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .page2 {
@@ -123,29 +126,14 @@ a:hover {
 }
 
 .footer {
-
-    background:red;
+    background-color: rgb(120, 174, 33);
     bottom:0;
-    height:100px;
-    position:absolute;
+    height:200px;
     width:100%;
+    position:absolute;
+
     text-align:center;
 
-    /* background-color: red;
-    width: 100%;
-    position: absolute;
-    bottom: 0px; */
-}
-
-.footer_nav {
-    position: absolute;
-    width: 200px;
-    height: 150px;
-    overflow-y: auto;
-    display: block;
-    width: 150px;
-    height: 150px;
-    margin: 2px 0;
 }
 
 
