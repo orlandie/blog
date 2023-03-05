@@ -79,7 +79,6 @@ a:hover {
     top: -70px;
     left: 15%;
     padding-top: 10px;
-    
 }
 
 .navigation {
@@ -111,8 +110,6 @@ a:hover {
 .logo {
     width: 50px;
     height: 50px;
-
- 
 }
 
 .aside{
@@ -131,15 +128,19 @@ a:hover {
     float: right;
 }
 
+.read {
+    text-transform: uppercase;
+
+}
+
 .footer {
-    background-color: rgb(120, 174, 33);
-    height:200px;
-    width:100%;
-    bottom:0;
-    
-
     text-align:center;
-
+    position: relative;
+    top: 50px;
+    padding: 20px 0 20px 50px;
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 
@@ -170,19 +171,5 @@ a:hover {
 }
 
 .text {
-    background-color: blueviolet;
-    width: 800px;
-    padding-top: 80px;
-  
-    left: 50%;
-    transform: translateX(-50%);
-    margin: 0 auto;
-    float: right;
-
-
-
-    
-
-
     line-height: 130%;
 }
