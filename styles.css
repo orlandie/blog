@@ -62,7 +62,7 @@ a:hover {
 
 }
 
-.header {
+header {
     background-color: rgb(120, 174, 33);
     padding-top: 5px;
     width: 100%;
@@ -126,12 +126,13 @@ a:hover {
     width: 30%;
     float: right;
     font-size: 16px;
-    overflow: hidden;
+    
 }
 
 .page2 {
     /* background-color: aqua; */
     width: 100%;
+    overflow: hidden;
 
 
 }
@@ -142,16 +143,13 @@ a:hover {
 
 }
 
-/* .footer {
+footer {
     text-align:center;
-    position: relative;
-    /* top: 50px;
-    padding: 20px 0 20px 50px;
     width: 100%;
-    height: ;
     display: block;
-    background-color: blue; */
-/* } */ */
+    padding-top: 10px;;
+    background-color: rgb(166, 215, 61);
+}
 
 
 /* Post Page */
