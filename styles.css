@@ -34,6 +34,12 @@ h1 {
     color: rgb(201, 201, 201);
 }
 
+h2 {
+    size: 30px;
+    color: rgb(166, 215, 61);
+
+}
+
 h3 {
     color: rgb(201, 201, 201);
 }
@@ -130,6 +136,7 @@ a:hover {
 
 .read {
     text-transform: uppercase;
+    font-weight: bold;
 
 }
 
